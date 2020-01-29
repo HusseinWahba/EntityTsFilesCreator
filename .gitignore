@@ -3,3 +3,16 @@
 ################################################################################
 
 /.vs/EntityTSCreator/v16/Server/sqlite3/db.lock
+/bin/Debug
+/obj/Debug
+/packages
+/EntityTSCreator.1.0.0.1.nupkg
+/EntityTSCreator.1.0.0.2.nupkg
+/EntityTSCreator.1.0.0.nupkg
+/MsCrmTools.EntityTS.Creator.1.0.0.nupkg
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/EntityTSCreator/v16/.suo
+/.vs/EntityTSCreator/v16/Server/sqlite3/storage.ide-wal
+/.vs/EntityTSCreator/v16/Server/sqlite3/storage.ide-shm
+/.vs/EntityTSCreator/v16/Server/sqlite3/storage.ide

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>EntityTSCreator</id>
+    <version>1.0.0.2</version>
+    <title>Entity TS Generator</title>
+    <authors>Hussein Fawzy</authors>
+    <owners>Hussein Fawzy</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/HusseinWahba/EntityTsFilesCreator</projectUrl>
+    <iconUrl>https://i.ibb.co/37DHjYC/logo-80.png</iconUrl>
+    <icon>logo80.png</icon>
+    <description>This tool is to create .ts (TypeScript) model files to be used in front end project like Angular.</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>XRMToolbox TS TypeScript</tags>
+  </metadata>
+  <files>
+    <file src="logo80.png" target="" />
+    <file src="bin/Debug/EntityTSCreator.dll" target="Plugins" />
+  </files>
+</package>
